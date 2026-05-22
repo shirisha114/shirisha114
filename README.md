@@ -26,7 +26,7 @@
 ### Efficient Pseudo Random Number Generator (PRNG) Design on FPGA
 Designed and implemented an FPGA-based PRNG architecture optimized for high-speed random number generation with reduced hardware resource utilization.
 
-### Object Detection System
+### Image Detection System using fpga
 Developed an image-processing based object detection system capable of identifying and classifying objects in real-time.
 
 ### Parking Management System
