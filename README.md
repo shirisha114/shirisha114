@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**shirisha114/shirisha114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shirisha 👋
 
-Here are some ideas to get you started:
+🎓 Electronics & Communication Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in:
+- VLSI Design
+- Digital Design
+- Verilog/SystemVerilog
+- FPGA Design
+- Verification
+- RTL Design
+
+## Technical Skills
+- Verilog HDL
+- SystemVerilog
+- FPGA Development
+- Digital Electronics
+- ModelSim / QuestaSim
+- Xilinx Vivado
+- Git & GitHub
+
+## Featured Projects
+
+### Efficient Pseudo Random Number Generator (PRNG) Design on FPGA
+Designed and implemented an FPGA-based PRNG architecture optimized for high-speed random number generation with reduced hardware resource utilization.
+
+### Object Detection System
+Developed an image-processing based object detection system capable of identifying and classifying objects in real-time.
+
+### Parking Management System
+Implemented a digital parking slot management system using Verilog with real-time slot allocation and monitoring features.
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-ID
+- GitHub: https://github.com/shirisha114
